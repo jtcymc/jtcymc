@@ -1,7 +1,7 @@
 # Hello, I'm jtcymc 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9CDB&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Embedded+Systems+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9CDB&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Embedded+Systems+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -49,7 +49,7 @@
 # 你好，我是 jtcymc 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9CDB&center=true&vCenter=true&width=600&height=100&lines=欢迎来到我的GitHub主页！;全栈开发工程师;嵌入式系统爱好者" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9CDB&center=true&vCenter=true&width=800&height=100&lines=欢迎来到我的GitHub主页！;全栈开发工程师;嵌入式系统爱好者" alt="Typing SVG" />
 </div>
 
 ## 🚀 关于我
