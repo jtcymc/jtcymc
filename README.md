@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,rust,cpp,cs,js,ts,react,vue,nodejs,express,mongodb,mysql,redis,docker,kubernetes,aws,git,linux,arduino,raspberrypi,cmake,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,go,rust,cpp,cs,js,ts,react,vue,nodejs,express,mongodb,mysql,redis,docker,kubernetes,aws,git,linux,arduino,raspberrypi,cmake&theme=dark" />
 </div>
 
 ## 📊 GitHub Stats
@@ -62,7 +62,7 @@
 ## 🛠️ 技术栈
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,rust,cpp,cs,js,ts,react,vue,nodejs,express,mongodb,mysql,redis,docker,kubernetes,aws,git,linux,arduino,raspberrypi,cmake,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,go,rust,cpp,cs,js,ts,react,vue,nodejs,express,mongodb,mysql,redis,docker,kubernetes,aws,git,linux,arduino,raspberrypi,cmake&theme=dark" />
 </div>
 
 ## 📊 GitHub 统计
