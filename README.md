@@ -74,6 +74,12 @@
 
 ## 📊 GitHub 统计
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jtcymc&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtcymc&theme=tokyonight&hide_border=true" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=jtcymc&hide_border=true" /> -->
+</div>
+<!-- abozanona -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jtcymc/jtcymc/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jtcymc/jtcymc/output/pacman-contribution-graph.svg">
